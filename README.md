@@ -8,4 +8,4 @@ You can play the game at: https://opsgilityschool.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/githubschool/github-games
 
-Hello!
+Hello! Goodbye.
