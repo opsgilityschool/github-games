@@ -10,6 +10,7 @@ A project based learning activity for people who are getting started with Git an
 4. The goal is to create complete rows with no empty spaces.
 5. When completed, the rows will disappear.
 6. To pause the game, just press the space bar again.
+7. Congratulations, you're a Tetris player!
 
 You can play the game at: https://opsgilityschool.github.io/github-games/
 
