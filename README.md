@@ -6,4 +6,6 @@ You can play the game at: https://opsgilityschool.github.io/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
+These are my instructions. It was a dark and stormy night...
+
 This fun open source game was cloned from: https://github.com/githubschool/github-games
