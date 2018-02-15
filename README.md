@@ -6,4 +6,6 @@ You can play the game at: https://opsgilityschool.github.io/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
+>**You may not play this game if your name begins with two consecutive vowels.** 
+
 This fun open source game was cloned from: https://github.com/githubschool/github-games
